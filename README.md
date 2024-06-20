@@ -23,5 +23,5 @@ Unsupervised Learning:
 
 Ensemble Methods:
 -Combine multiple weaker learners to create a more robust and accurate model.
-1.Random Forests: Aggregates predictions from multiple decision trees.
+1. Random Forests: Aggregates predictions from multiple decision trees.
 2. Gradient Boosting: Sequentially builds models that improve upon the previous one.
